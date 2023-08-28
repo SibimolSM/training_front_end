@@ -1,0 +1,34 @@
+* {
+    color:black;
+    font-family: 'sans-serif';
+}
+/*.test{
+    color:blue;
+}*/
+.sample {
+    color:blue;
+    background-color: blue;
+    font-size: 22px;
+    padding: 20px;
+    margin: 20px;
+} 
+/*left ide bar css starts here 1*/
+.test {
+    background-color: #000000;
+}
+
+table, th,tr,td {
+border: 1px solid #000;
+border-collapse: collapse;
+}
+.sample {
+    color:red
+}
+/*left ide bar css ends here 1*/
+
+.sample::first-letter {
+    font-size: 40px;
+}
+.test {
+    color:yellow;
+} 
